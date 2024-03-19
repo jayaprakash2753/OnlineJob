@@ -1,0 +1,47 @@
+.nav 
+{
+    position:fixed;
+    opacity: 1;
+    margin: 0;
+    height: 60px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #E0F5FF;
+}
+
+.nav1
+{
+    position: absolute;
+    left: 500px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;;
+    bottom: 18px;
+    color:#333333 ;
+}
+.nav2
+{
+    position: absolute;
+    left: 600px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;;
+    bottom: 18px;
+    color:#333333 ;
+}
+.nav3
+{
+    position: absolute;
+    left: 770px;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;;
+    bottom: 18px; 
+    color:#333333 ;  
+}
+.nav4{
+    position: absolute;
+    left: 930px;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    bottom: 18px;
+    color:#333333 ; 
+}
