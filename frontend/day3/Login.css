@@ -1,0 +1,79 @@
+.l1
+{
+    font-size: 30px;
+    margin-left: 800px;
+    margin-top: 10%;
+    
+}
+    
+.l2
+{
+    margin-left: 800px;
+    margin-top: 20px;
+    
+}
+.l3{
+    padding: 10px;
+    width: 400px;
+    margin-top: 60px;
+    font-family: satoshi;
+}
+.l4
+{
+    font-size: 25px;
+    margin-left:800px;
+    margin-top: 50px;
+    width: 420px;
+    padding: 5px;
+    background-color: rgb(74, 116, 221);
+    border-radius: 60px;
+    color: antiquewhite;
+    border-color: white;
+}
+.l5
+{
+    position: absolute;
+    top: 220px;
+    right: 650px;
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.l6
+{
+    position: absolute;
+    top: 325px;
+    right: 650px;
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.l7
+{
+    position: absolute;
+    top: 420px;
+    right: 320px;
+    color:rgb(74, 116, 221); 
+}
+.l{
+    /* background-image: url("https://www.freepik.com/free-vector/man-having-online-job-interview_9430578.htm#query=online%20job%20portal&position=5&from_view=keyword&track=ais&uuid=f21e603c-28c9-4744-b869-b390c9daba6d"); */
+    background-image: url("https://img.freepik.com/free-vector/man-having-online-job-interview_52683-43379.jpg");
+    background-repeat: no-repeat;
+
+}
+.l8
+{
+    position: absolute;
+    font-size: 50px;
+    top: 160px;
+    right: 1250px;
+    color:rgb(9, 23, 59) ;
+
+}
+.l9
+{
+    position: absolute;
+    font-size: 50px;
+    top: 160px;
+    right: 1000px; 
+    color: rgb(9, 23, 59) ;
+}
